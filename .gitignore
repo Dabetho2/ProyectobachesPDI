@@ -1,0 +1,46 @@
+# Ignorar entornos virtuales
+env/
+.venv/
+venv/
+
+# Ignorar pesos del modelo
+*.pt
+*.onnx
+*.engine
+
+# Ignorar dataset pesado
+dataset_final_yolo/
+labeled/
+frames_para_etiquetar*/
+Video/
+predicciones_imagenes/
+predicciones/
+runs_detect/
+runs/
+
+# Archivos de PyInstaller
+dist/
+build/
+*.spec
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Carpeta de imágenes generadas
+PruebaImagenFinal*/
+PruebaImagenFinal_conf015/
+FramesAnnotados*/
+output_frames*/
+frames_annotated*/
+frames_final*/

@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/PDI/Proyectobaches/yolo_potholes_dash/images/train
+val: /content/drive/MyDrive/PDI/Proyectobaches/yolo_potholes_dash/images/val
+nc: 1
+names: ['pothole']

@@ -1,0 +1,27 @@
+ultralytics==8.2.30
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+matplotlib==3.8.2
+tk==0.1.0
+pillow==10.2.0
+scipy==1.11.4
+pyinstaller==6.3.0
+torch==2.1.2
+torchvision==0.16.2
+
+
+
+Explicación rápida
+Librería	Para qué sirve
+ultralytics	YOLOv8 (detección)
+opencv-python	Lectura de video, dibujo, exportación
+opencv-python-headless	Necesario para PyInstaller
+numpy	Procesamiento numérico
+matplotlib	Gráficas si las usas en notebook
+tk	Interfaz gráfica (Tkinter)
+pillow	Cargar imágenes
+scipy	Procesamiento auxiliar
+pyinstaller	Para generar el .exe
+torch/torchvision	Backend del modelo YOLO
+

@@ -1,0 +1,5 @@
+path: E:/UNIVERSIDAD/PDI/Proyectobaches/yolo_potholes_robusto
+train: images/train
+val: images/val
+nc: 1
+names: ['pothole']
