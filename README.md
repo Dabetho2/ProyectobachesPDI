@@ -8,6 +8,8 @@ El proyecto se enmarca en el contexto de Ciudades Inteligentes y movilidad urban
 
 Antes de empezar, un video demo de la interfaz: https://www.youtube.com/watch?v=lD-4wQr6Nqo
 
+El código completo de colab y jupyter se encuentra en el repositorio llamado: ProyectoBachesFinalPDI.ipynb
+
 1. Descripción general
 
 PotholeVision AI permite:
