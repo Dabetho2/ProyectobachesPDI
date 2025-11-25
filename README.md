@@ -6,6 +6,8 @@ El sistema utiliza YOLOv8m sobre PyTorch (Transfer Learning + Fine-Tuning) para 
 
 El proyecto se enmarca en el contexto de Ciudades Inteligentes y movilidad urbana.
 
+Antes de empezar, un video demo de la interfaz: https://www.youtube.com/watch?v=lD-4wQr6Nqo
+
 1. Descripción general
 
 PotholeVision AI permite:
